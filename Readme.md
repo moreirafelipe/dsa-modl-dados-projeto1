@@ -42,6 +42,8 @@ Enfim, você deverá preparar o modelo do banco de dados que receberá os dados 
 
 Oracle PL/SQL
 
+SQL Alchemy
+
 Db Schemma
 
 Python
