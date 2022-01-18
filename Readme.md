@@ -45,7 +45,3 @@ Oracle PL/SQL
 SQL Alchemy
 
 Db Schemma
-
-Python
-
-Pandas library
